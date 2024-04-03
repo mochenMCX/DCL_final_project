@@ -1,0 +1,14 @@
+#-----------------------------------------------------------
+# Vivado v2023.1 (64-bit)
+# SW Build 3865809 on Sun May  7 15:05:29 MDT 2023
+# IP Build 3864474 on Sun May  7 20:36:21 MDT 2023
+# SharedData Build 3865790 on Sun May 07 13:33:03 MDT 2023
+# Start of session at: Fri Dec 29 02:57:48 2023
+# Process ID: 40532
+# Current directory: C:/Users/Macoto/Downloads/final_project/final_project/lab10.runs/synth_1
+# Command line: vivado.exe -log main.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source main.tcl
+# Log file: C:/Users/Macoto/Downloads/final_project/final_project/lab10.runs/synth_1/main.vds
+# Journal file: C:/Users/Macoto/Downloads/final_project/final_project/lab10.runs/synth_1\vivado.jou
+# Running On: MSI, OS: Windows, CPU Frequency: 2304 MHz, CPU Physical cores: 8, Host memory: 16866 MB
+#-----------------------------------------------------------
+source main.tcl -notrace
